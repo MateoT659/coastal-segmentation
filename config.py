@@ -1,8 +1,9 @@
 import numpy as np
-# CONFIGURATION VARIABLES
+# CONFIGURATION VARIABLES & USAGE
 # These variables are used to configure the data, model, and training process.
 # After modifying these variables, save and run this file to determine if the variables are valid.
-# Then, run data.ipynb to generate the new dataset and run one of the ipynb files in the "models" folder to train a model.
+# Then, run "data".ipynb to generate the new dataset
+# Finally, run one of the ipynb files in the "models" folder to train a model.
 
 # Decision Patch Width: Corresponds to the width of the decision region and label subsamples.
 decision_width = 8
